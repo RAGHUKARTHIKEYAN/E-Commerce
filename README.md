@@ -1,70 +1,66 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-> Please check branches for Latest **Frontend, Backend & Rest Api** Code.
-# Full Stack Multimart e-Commerce
-This is my full stack e-Commerce website created using React (Frontend), Laravel (Dashboard) , Resetapi (API) ,Dtabash (my SQL) etc.
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
+## About Laravel
 
-## Frontend
-I created Full Stack Multimart e-Commerce frontend using React, Reactstrap, Bootstrap etc.
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-[Live Preview](https://demo.reinforcelabhosting.com/) &nbsp; &nbsp; [Code Link](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/tree/main/Front%20End)
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-![Home](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/assets/76869065/ce509c69-1d9f-418f-96ad-9a63474760ea)
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Learning Laravel
 
-## Backend
-I customized a Laravel admin dashboard called minimal and integrate backend functionaliy & rest api.
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-[Live Preview](#) &nbsp; &nbsp; [Code Link](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/tree/main/Back%20End)
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-![admin](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/assets/76869065/d017ff84-1ce8-4e50-b946-d360dc6b2d0a)
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Restapi
+## Laravel Sponsors
 
-I created Multimart e-Commerce rest api using Node, Express, Mongo Db.
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-[Live Preview](#) &nbsp; &nbsp; [Code Link](#)
+### Premium Partners
 
-<img src="https://user-images.githubusercontent.com/71124853/187373613-4e093a1b-4a3f-412e-a411-f6044b42cd02.png">
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
+## Contributing
 
-## TODO
-- [x] Create Multimart e-Commerce Frontend Using **Using React Js**
-- [x] Create Multimart e-Commerce Backend **Using Laravel Php**
-- [x] Create Multimart e-Commerce Api using **Using Rest API**
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-- [ ] Create Multimart e-Commerce Frontend **Using NEXT JS**
+## Code of Conduct
 
-React Laravel is accessible, powerful, and provides tools required for large, robust applications.
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
+## Security Vulnerabilities
 
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## Full Stack Multimart Ecommerce Key Features:
+## License
 
-Full stack e-commerce application using React and Laravel, you can incorporate several key features to enhance the functionality and user experience. Here are some important features you can consider implementing in a Full Stack React Laravel Multimart Ecommerce application:
-
-1. User Registration and Authentication: Allow users to register, create accounts, and log in securely. Implement authentication mechanisms such as email verification, password hashing, and token-based authentication for secure access.
-
-2. Product Catalog: Create a comprehensive product catalog that displays various products available for purchase. Include features like product images, descriptions, pricing, and filtering options to help users search and browse products easily.
-
-3. Shopping Cart: Implement a shopping cart functionality that enables users to add products to their cart, update quantities, and remove items. Persist the cart data across sessions for a seamless user experience.
-
-4. Payment Gateway Integration: Integrate a payment gateway to enable secure online transactions. Popular payment gateways include Stripe, PayPal, or Braintree. Ensure that the integration is secure, reliable, and supports multiple payment methods.
-
-5. Order Management: Implement features for users to place orders, view their order history, and track the status of their orders. Provide real-time updates on order processing, shipping, and delivery.
-
-6. User Reviews and Ratings: Allow users to leave reviews and ratings for products they have purchased. This feature helps build trust among customers and provides valuable feedback to other users.
-
-7. Wishlist and Favorites: Implement functionality that allows users to add products to their wishlist or mark them as favorites for future reference. This feature enhances user engagement and encourages repeat visits.
-
-8. Search and Filtering: Incorporate a robust search functionality that enables users to search for products based on various criteria such as keywords, categories, price range, and other attributes. Provide advanced filtering options to refine search results.
-
-9. Responsive Design: Ensure that the application is responsive and works seamlessly across different devices and screen sizes. A mobile-friendly design is crucial for reaching a wider audience and providing a positive user experience.
-
-10. Admin Dashboard: Build an admin dashboard to manage the e-commerce platform efficiently. Include features for inventory management, order processing, user management, and analytics to monitor the performance of the platform.
-
-11. SEO Optimization: Implement SEO best practices to improve the visibility of the e-commerce platform in search engine results. Optimize page titles, meta descriptions, URLs, and other elements to enhance search engine rankings.
-
-12. Social Media Integration: Enable users to share products or their shopping experiences on social media platforms. Implement social media login options to facilitate easy registration and login for users.
-
-These are some key features you can consider when building a Full Stack React Laravel Multimart Ecommerce application. Remember to prioritize security, performance, and usability throughout the development process to provide a high-quality user experience.
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
